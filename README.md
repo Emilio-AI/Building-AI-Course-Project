@@ -8,8 +8,11 @@ Another proposal is to maintain, through an NLP, a continuous search in journals
 Finally, all this information could be transferred to multiple languages through Transformer Networks techniques.
 
 ## Background
+The main idea is to provide a pre-diagnosis through AI that deepens and contrasts much more information than a human can possess.
+Many times the human factor does not have enough time or skill to interpret all the details of medical scaning tests, having the help of AI to obtain a pre-diagnosis would facilitate and reduce possible human errors.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+This idea Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
 * problem 1

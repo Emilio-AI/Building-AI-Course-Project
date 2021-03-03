@@ -1,15 +1,11 @@
 # Building-AI-Course-Project
 Building AI Course Project Idea - Medical pre-diagnosis for pathologies with image scanning tools (X-rays, CT, MRI, ultrasound)
 
-## Summary Medical pre-diagnosis for pathologies with image scanning tools (X-rays, CT, MRI, ultrasound)
+## Medical pre-diagnosis for pathologies with image scanning tools (X-rays, CT, MRI, ultrasound)
 Taking as training data the historial of images obtained with the various current technologies, develop an automatic image processing system that allows to establish patterns and link them with diagnoses, so that an automatic pre-diagnosis can be obtained once verified and tested. The model will allow doctors to confirm or adjust the results and thus provide feedback.
 On the other hand, through a method of NLP Natural Language Processing, Categorize and obtain patterns between the diagnostic reports of all medical imaging tests/systems.
 Another proposal is to maintain, through an NLP, a continuous search in journals and specialized medical sources to have the latest advances in the identified diagnoses and to offer updated information in the reports.
-
-
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+Finally, all this information could be transferred to multiple languages through Transformer Networks techniques.
 
 ## Background
 

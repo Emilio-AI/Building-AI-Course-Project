@@ -10,17 +10,11 @@ Finally, all this information could be transferred to multiple languages through
 ## Background
 The main idea is to provide a pre-diagnosis through AI that deepens and contrasts much more information than a human can possess.
 Many times the human factor does not have enough time or skill to interpret all the details of medical scaning tests, having the help of AI to obtain a pre-diagnosis would facilitate and reduce possible human errors.
-
-
-This idea Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+I think that the interpretation of certain tests that are routine is a perfect field to implement AI, it is not about replacing the human factor, but about giving you new tools to improve your work.
 
 ## How is it used?
+This project could generate global knowledge about certain diagnostic processes, applicable throughout the healthcare and hospital community around the world. The main users would be doctors and the main beneficiaries would be patients first, then hospitals and health systems, since resources would be optimized and they would be more efficient, improving current techniques and expanding the analysis capacity with new techniques.
+
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 

@@ -13,60 +13,18 @@ Many times the human factor does not have enough time or skill to interpret all 
 I think that the interpretation of certain tests that are routine is a perfect field to implement AI, it is not about replacing the human factor, but about giving you new tools to improve your work.
 
 ## How is it used?
-This project could generate global knowledge about certain diagnostic processes, applicable throughout the healthcare and hospital community around the world. The main users would be doctors and the main beneficiaries would be patients first, then hospitals and health systems, since resources would be optimized and they would be more efficient, improving current techniques and expanding the analysis capacity with new techniques.
-
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+This project could generate global knowledge about certain diagnostic processes, applicable throughout the healthcare and hospital community around the world. The main users would be doctors and the main beneficiaries would be patients first, then hospitals and health systems, since resources would be optimized and they would be more efficient, improving current techniques and expanding the analysis capacity with new techniques. At the end a global improvement for society and humanity.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The anonymized data would be collected from the databases of health institutions, whether public or private.
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Obviously the data must be anonymised, the ideal would be to start with a pilot project, it would also be necessary to take into account the laws and characteristics of each country.A previous work of analysis, parameterization and filtering of sensitive information would be necessary to be able to limit the necessary data as well as the reliability of the same.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+To launch the project I would need all the necessary help, I only have the idea, which I have briefly outlined in this document, I know that there are many more requirements to carry it out but maybe this is not the forum, is it?
+Surely this idea is not new and many projects are being worked on throughout the world, I just don't know where they are ... If anyone has knowledge of them, I would be grateful if you could send it to me.
 
 ## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Inspiration has come to me from a need to help people, who does not know a close case where a misdiagnosis has had fatal results? Automating and combining the wide knowledge of the scientific community around the world, saving linguistic and cultural peculiarities is a challenge that we must face.
+If we are able to put AI to work in generating a broader knowledge than human beings can process by themselves, it will allow us to continue growing as a species and as a society

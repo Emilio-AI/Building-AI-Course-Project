@@ -16,7 +16,7 @@ I think that the interpretation of certain tests that are routine is a perfect f
 ## How is it used?
 This project could generate global knowledge about certain diagnostic processes, applicable throughout the healthcare and hospital community around the world. The main users would be doctors and the main beneficiaries would be patients first, then hospitals and health systems, since resources would be optimized and they would be more efficient, improving current techniques and expanding the analysis capacity with new techniques. At the end a global improvement for society and humanity.
 
-## Data sources and AI methods
+## Data sources and AI methods 
 The anonymized data would be collected from the databases of health institutions, whether public or private.
 
 ## Challenges

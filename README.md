@@ -28,3 +28,6 @@ Surely this idea is not new and many projects are being worked on throughout the
 ## Acknowledgments
 Inspiration has come to me from a need to help people, who does not know a close case where a misdiagnosis has had fatal results? Automating and combining the wide knowledge of the scientific community around the world, saving linguistic and cultural peculiarities is a challenge that we must face.
 If we are able to put AI to work in generating a broader knowledge than human beings can process by themselves, it will allow us to continue growing as a species and as a society
+
+## Thanks
+Thanks to Reaktor and the University of Helsinki for sharing and offering everyone the chance to introduce us to this world of AI. Sharing knowledge not only improves society but also makes us happier and allows us to continue evolving and growing towards a better future.

@@ -22,7 +22,7 @@ The anonymized data would be collected from the databases of health institutions
 Obviously the data must be anonymised, the ideal would be to start with a pilot project, it would also be necessary to take into account the laws and characteristics of each country.A previous work of analysis, parameterization and filtering of sensitive information would be necessary to be able to limit the necessary data as well as the reliability of the same.
 
 ## What next?
-To launch the project I would need all the necessary help, I only have the idea, which I have briefly outlined in this document, I know that there are many more requirements to carry it out but maybe this is not the forum, is it?
+Taking into account that my programming skills are zero and that I am a neophyte in all these knowledge, to launch the project I would need all the necessary help, I only have the idea, which I have briefly outlined in this document, I know that there are many more requirements to carry it out but maybe this is not the forum, is it?
 Surely this idea is not new and many projects are being worked on throughout the world, I just don't know where they are ... If anyone has knowledge of them, I would be grateful if you could send it to me.
 
 ## Acknowledgments

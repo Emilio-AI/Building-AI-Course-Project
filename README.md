@@ -32,4 +32,4 @@ Inspiration has come to me from a need to help people, who does not know a close
 If we are able to put AI to work in generating a broader knowledge than human beings can process by themselves, it will allow us to continue growing as a species and as a society
 
 ## Thanks
-Thanks to Reaktor and the University of Helsinki for sharing and offering everyone the chance to introduce us to this world of AI. Sharing knowledge not only improves society but also makes us happier and allows us to continue evolving and growing towards a better future.
+Thanks to Reaktor and the University of Helsinki for sharing and offering everyone the chance to introduce us to this world of AI. Sharing knowledge not only improves society but also makes us happier and allows us to continue evolving and growing towards a better future. 
